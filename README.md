@@ -1,33 +1,68 @@
 # Xadrez no console
 _English below_
 
-Agora você pode jogar xadrez do conforto do seu console em Java! 
+Agora você pode jogar xadrez com seus amigos do conforto do seu terminal em Java! 
 
-Basta rodar o application/Program e se divertir. 
+## Funcionalidades 
 
-O jogo inclui: 
-* Regras básicas de xadrez (movimentação e captura das peças)
-* Jogadas especiais, como roque, _en passant_ e promoções
+- Regras básicas de xadrez com todas as peças (movimentos e captura)
+- Xeque e xeque-mate
+- Jogadas especiais, como roque, _en passant_ e promoções
+
+## Demo
+
+<img width="240" height="426" alt="demo-do-jogo-de-xadrez" src="https://github.com/user-attachments/assets/b98b6528-7d21-4467-9b45-cb0c467cc039" />
+
+## Tecnologias
+
+Java 17 / Maven
+
+## Como rodar 
+
+1. Clonar repositório
+2. Executar application/Program
 
 ## Créditos
 
-Esse jogo foi desenvolvido no curso de Java do @acenelio: https://www.udemy.com/course/java-curso-completo/.
+Esse jogo foi originalmente desenvolvido no curso de Java do @acenelio: https://www.udemy.com/course/java-curso-completo/.
 
 O repositório do projeto original está disponível [aqui](https://github.com/acenelio/chess-system-java). 
+
+## Testes unitários 
+
+Escrita em andamento 🚧 
 
 ---
 # Console chess
 
-Now you can play chess from the comfort of your own console in Java! 
+Now you can play chess with your friend from the comfort of your own terminal in Java! 
 
-All you have to do is run application/Program and have fun. 
+## Features 
 
-The game includes: 
-* Basic chess rules (how to move and capture pieces)
-* Special moves, such as castling, _en passant_ and promotions.
+- Basic chess rules, including all pieces, moves and captures
+- Check and checkmate
+- Special moves, such as castling, _en passant_ and promotions
+
+## Demo
+
+<img width="240" height="426" alt="demo-do-jogo-de-xadrez" src="https://github.com/user-attachments/assets/b98b6528-7d21-4467-9b45-cb0c467cc039" />
+
+## Technologies
+
+Java 17 / Maven
+
+## How to run
+
+1. Clone repo
+2. Run application/Program
 
 ## Credits
 
-This game was developed as part of the Java complete course by @acenelio, which is available on Udemy at: https://www.udemy.com/course/java-curso-completo/. 
+This game was implemented based on the Java course by @acenelio: https://www.udemy.com/course/java-curso-completo/
 
-The original game is available on the following repo: https://github.com/acenelio/chess-system-java
+The original repo is available [here](https://github.com/acenelio/chess-system-java). 
+
+## Unit testing
+
+Work in progress 🚧 
+
