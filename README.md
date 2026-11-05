@@ -26,6 +26,8 @@ Java 17 / Maven
 
 Esse jogo foi originalmente desenvolvido no curso de Java do @acenelio: https://www.udemy.com/course/java-curso-completo/.
 
+O que eu fiz: refatorei para incluir build com o Maven (para implementar testes unitários via JUnit). 
+
 O repositório do projeto original está disponível [aqui](https://github.com/acenelio/chess-system-java). 
 
 ## Testes unitários 
@@ -59,6 +61,8 @@ Java 17 / Maven
 ## Credits
 
 This game was implemented based on the Java course by @acenelio: https://www.udemy.com/course/java-curso-completo/
+
+What I've done: refactored the application to build with Maven in order to add unit testing using JUnit. 
 
 The original repo is available [here](https://github.com/acenelio/chess-system-java). 
 
